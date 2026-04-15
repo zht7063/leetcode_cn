@@ -3,6 +3,9 @@
 #
 # [53] 最大子数组和
 #
+# 「来自灵神大佬的题解 1」
+# 基于前缀和的类 [121] 买卖股票的最佳时机 的解法
+# 
 from math import inf
 from typing import List
 
